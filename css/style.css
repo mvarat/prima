@@ -1,5 +1,100 @@
-body {
-  background-image: url("../images/PrimaWeb.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+header {
+  margin-left: 2%;
+  margin-top: 2%;
+  text-align: center;
+  position: fixed;
+  display: block;
+  z-index: 1;
+}
+
+img:hover {
+  opacity: .5;
+}
+
+.lava {
+  width: 378px;
+  height: 733px;
+  background-color: #ed6f69;
+  margin-bottom: 7px;
+}
+.lava2 {
+  width: 128px;
+  height: 240px;
+  background-color: #ed6f69;
+  margin-bottom: 7px;
+}
+.yellow {
+  width: 378px;
+  height: 420px;
+  background-color: #ebf8a2;
+  margin-bottom: 7px;
+}
+.yellow2 {
+  width: 128px;
+  height: 240px;
+  background-color: #ebf8a2;
+  margin-bottom: 7px;
+}
+.silver {
+  width: 378px;
+  height: 306px;
+  background-color: #bbb9b9;
+  margin-bottom: 7px;
+}
+.white {
+  width: 128px;
+  height: 240px;
+  background-color: white;
+  margin-bottom: 7px;
+}
+.aqua {
+  width: 544px;
+  height: 720px;
+  background-color: #b8cdd4;
+}
+.coral {
+  width: 378px;
+  height: 360px;
+  background-color: #ed6679;
+  margin-bottom: 7px;
+}
+.charcoal {
+  width: 378px;
+  height: 360px;
+  background-color: #89909e;
+}
+
+footer {
+  position: fixed;
+  bottom: 25px;
+  left: 25px;
+  font-family: helvetica;
+  color: dimgrey;
+}
+
+
+
+.fb {
+  position: fixed;
+  bottom: 35px;
+  right: 180px;
+}
+
+.insta {
+  position: fixed;
+  bottom: 35px;
+  right: 125px;
+}
+
+.email {
+  position: fixed;
+  bottom: 35px;
+  right: 60px;
+}
+
+
+h3 {
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 2px;
 }
