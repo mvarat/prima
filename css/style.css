@@ -114,6 +114,11 @@ h2 {
   padding-top: 100px;
 }
 
+p {
+  padding: 0;
+  margin: 0;
+}
+
 
 @media (max-width: 450px) {
   img {
